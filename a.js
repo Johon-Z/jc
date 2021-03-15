@@ -1,1 +1,1 @@
-console.log('Hello')
+console.log('Hello a.js 2s')
